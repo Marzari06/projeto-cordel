@@ -18,9 +18,8 @@
     
 
 html , body {
-    margin: 0;
-    width: 100%;
-    min-width: 100vh;
+   
+    min-height: 100vh;
     background-color: darkgray;
     font-family: var(--fonte01);
 }
